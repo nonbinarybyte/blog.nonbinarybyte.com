@@ -1,85 +1,42 @@
 baseURL = "/"
 title = "Nonbinarybytes Blog"
 author = "Kenny"
-copyright = "2025"
+copyright = "nonbinarybyte"
 pagination.pagerSize = 10
 languageCode = "en"
-enableRobotsTXT = true
-enableEmoji = true
-theme = "mainroad"
-ignoreLogs = ['warning-goldmark-raw-html']
+theme = "tailwind"
 
-[Author] # Used in authorbox
-  name = "Kenny"
-  bio = "17 - He/They/Void - AudHD - Blogger?"
-  avatar = ""
+[markup]
+  _merge = "deep"
 
-[Params]
-  description = "Kenny's Personal blog about everything" # Site description. Used in meta description
-  copyright = "Kenny" # Footer copyright holder, otherwise will use site title
-  opengraph = true # Enable OpenGraph if true
-  schema = true # Enable Schema
-  twitter_cards = true # Enable Twitter Cards if true
-  readmore = true # Show "Read more" button in list if true
-  authorbox = true # Show authorbox at bottom of pages if true
-  toc = true # Enable Table of Contents
-  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
-  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
-  dateformat = "January 2, 2006" # Change the format of dates
-  mathjax = true # Enable MathJax
-  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
-  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
-  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
-  customCSS = ["css/custom.css"] # Include custom CSS files
-  customJS = ["js/custom.js"] # Include custom JS files
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
 
+  [params.header]
+    logo = "logo.webp"
+    title = "Nonbinarybytes Blog"
 
-[Params.style.vars]
-  highlightColor = "#e22d30" # Override highlight color
+  [params.footer]
+    since = 2025
+    poweredby = false
 
-  # Override font-family sets
-  # Take care of different quotes OR escaping symbols in these params if necessary
-  fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
-  # Secondary font-family set responsible for pre, code, kbd, and samp tags font
-  fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+[menu]
 
-[Params.logo]
-  image = "" # Logo image. Path relative to "static"
-  title = "" # Logo title, otherwise will use site title
-  subtitle = "Just another site" # Logo subtitle
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 10
 
-[Params.thumbnail]
-  visibility = ["list", "post"] # Control thumbnail visibility
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 20
 
-[Params.sidebar]
-  home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-
-[Params.widgets]
-  recent_num = 10
-  categories_counter = false
-  tags_counter = true
-
-[Params.widgets.social]
-  cached = false # activate cache if true
-  # Enable parts of social widget
-  facebook = false
-  twitter = "N0NBINARYBYTE"
-  instagram = "333bytes"
-  linkedin = false
-  telegram = false
-  github = "nonbinarybyte"
-  gitlab = false
-  bitbucket = false
-  email = "kenny@nonbinarybyte.com"
-
-# Custom social links
-[[Params.widgets.social.custom]]
-  title = "Youtube"
-  url = "https://www.youtube.com/@AngelByt3"
-  icon = false
-  rel = false
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
