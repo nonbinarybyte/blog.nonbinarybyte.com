@@ -1,5 +1,3 @@
-<hr>
-
 # Welcome to my blog!
 <hr>
 
