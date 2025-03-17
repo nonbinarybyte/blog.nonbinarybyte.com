@@ -15,7 +15,6 @@ theme = "tailwind"
   contentTypeName = "posts"
 
   [params.header]
-    logo = "logo.webp"
     title = "Nonbinarybytes Blog"
 
   [params.footer]
@@ -25,15 +24,21 @@ theme = "tailwind"
 [menu]
 
   [[menu.main]]
-    identifier = "post"
-    name = "Post"
-    pageRef = "/posts"
+    identifier = "home"
+    name = "Home"
+    pageRef = "/"
     weight = 10
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     pageRef = "/about"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    pageRef = "/posts"
     weight = 20
 
 [taxonomies]
