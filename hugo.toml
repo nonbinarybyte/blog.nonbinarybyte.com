@@ -46,20 +46,28 @@ category = "categories"
 tag = "tags"
 series = "series"
 
-[[social_media.items]]
-enabled = true
-title = 'Instagram'
-icon = 'brand-instagram'
-link = 'https://www.instagram.com/333bytes'
+[params.social_media]
 
-[[social_media.items]]
-enabled = true
-title = 'YouTube'
-icon = 'brand-youtube'
-link = 'https://www.youtube.com/@AngelByt3'
+  [[social_media.items]]
+    enabled = true
+    title = 'Instagram'
+    icon = false
+    link = 'https://www.instagram.com/333bytes'
+    
+  [[social_media.items]]
+    enabled = true
+    title = 'Discord'
+    icon = false
+    link = 'https://discord.gg/ZNYZ6cXskf'
 
-[[social_media.items]]
-enabled = true
-title = 'Twitter'
-icon = 'brand-twitter'
-link = 'https://www.x.com/N0NBINARYBYTE'
+   [[social_media.items]]
+    enabled = true
+    title = 'YouTube'
+    icon = false
+    link = 'https://www.youtube.com/@AngelByt3'
+
+   [[social_media.items]]
+    enabled = true
+    title = 'Twitter (formerly X)'
+    icon = false
+    link = 'https://x.com/N0NBINARYBYTE'
