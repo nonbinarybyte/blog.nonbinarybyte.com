@@ -17,6 +17,7 @@ theme = "tailwind"
   contentTypeName = "posts"
 
   [params.header]
+    LOGO = 'https://github.com/nonbinarybyte/blog.nonbinarybyte.com/blob/main/android-chrome-512x512.png?raw=true'
     title = "Nonbinarybytes Blog"
 
   [params.footer]
