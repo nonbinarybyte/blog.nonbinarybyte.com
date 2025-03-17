@@ -18,7 +18,7 @@ pagination.pagerSize = 5
   showMenuItems = 2
 
   # show selector to switch language
-  showLanguageSelector = false
+  showLanguageSelector = true
 
   # set theme to full screen width
   fullWidthTheme = false
@@ -33,13 +33,13 @@ pagination.pagerSize = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+  readingTime = true # default
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
@@ -101,6 +101,6 @@ pagination.pagerSize = 5
           name = "About"
           url = "/about"
         [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+          identifier = "posts"
+          name = "Posts"
+          url = "/posts"
