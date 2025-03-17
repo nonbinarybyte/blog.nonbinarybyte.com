@@ -1,12 +1,13 @@
 baseURL = "/"
 title = "Nonbinarybytes Blog"
 author = "Kenny"
-copyright = "nonbinarybyte"
+copyright = "2025"
 pagination.pagerSize = 10
 languageCode = "en"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "mainroad"
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [Author] # Used in authorbox
   name = "Kenny"
