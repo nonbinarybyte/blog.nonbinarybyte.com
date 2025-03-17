@@ -1,4 +1,3 @@
-<hr>
 # My social medias!
 
 this post contains all my social media links! Let's get started.
