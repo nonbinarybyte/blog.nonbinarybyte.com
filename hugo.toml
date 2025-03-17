@@ -6,7 +6,7 @@ pagination.pagerSize = 10
 languageCode = "en"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "tailwind"
+theme = "mainroad"
 
 [markup]
   _merge = "deep"
