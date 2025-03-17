@@ -17,12 +17,12 @@ theme = "tailwind"
   contentTypeName = "posts"
 
   [params.header]
-    logo = 'https://github.com/nonbinarybyte/blog.nonbinarybyte.com/blob/main/android-chrome-512x512.png?raw=true'
+    logo = 'https://github.com/nonbinarybyte/blog.nonbinarybyte.com/blob/main/android-chrome-512x512.png'
     title = "Nonbinarybytes Blog"
 
   [params.footer]
     since = 2025
-    poweredby = false
+    poweredby = true
 
 [menu]
 
