@@ -4,6 +4,8 @@ author = "Kenny"
 copyright = "nonbinarybyte"
 pagination.pagerSize = 10
 languageCode = "en"
+enableRobotsTXT = true
+enableEmoji = true
 theme = "tailwind"
 
 [markup]
@@ -45,29 +47,3 @@ theme = "tailwind"
 category = "categories"
 tag = "tags"
 series = "series"
-
-[params.social_media]
-
-  [[social_media.items]]
-    enabled = true
-    title = 'Instagram'
-    icon = false
-    link = 'https://www.instagram.com/333bytes'
-    
-  [[social_media.items]]
-    enabled = true
-    title = 'Discord'
-    icon = false
-    link = 'https://discord.gg/ZNYZ6cXskf'
-
-   [[social_media.items]]
-    enabled = true
-    title = 'YouTube'
-    icon = false
-    link = 'https://www.youtube.com/@AngelByt3'
-
-   [[social_media.items]]
-    enabled = true
-    title = 'Twitter (formerly X)'
-    icon = false
-    link = 'https://x.com/N0NBINARYBYTE'
