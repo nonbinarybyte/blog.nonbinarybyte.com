@@ -1,9 +1,9 @@
 +++
-date = '{{ .Date }}'
 title = '{{ replace .File.ContentBaseName "-" " " | title }}' 
 tags = '2025, March 2025, Promotion, Updates, Promo, Other, Random Posts'
 draft = false
 +++
+
 # My social medias!
 
 this post contains all my social media links! Let's get started.
