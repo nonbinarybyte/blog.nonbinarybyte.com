@@ -29,12 +29,7 @@ theme = "tailwind"
     name = "Post"
     pageRef = "/posts"
     weight = 10
-
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    pageRef = "/about"
-    weight = 20
+    
 
 [taxonomies]
 category = "categories"
