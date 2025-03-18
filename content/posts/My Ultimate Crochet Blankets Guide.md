@@ -1,9 +1,9 @@
 +++
-date = '{{ .Date }}'
 title = '{{ replace .File.ContentBaseName "-" " " | title }}' 
-tags = 'crochet, DIY, crafts, crochet guide, crochet tutorial, free crochet guide, free,  free pattern, free crochet pattern, patterns, 2025, March 2025'
+tags = '2025, March 2025, Promotion, Updates, Promo, Other, Random Posts'
 draft = false
 +++
+
 ## Table of contents.
 <hr>
 
