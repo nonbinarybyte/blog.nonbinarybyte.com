@@ -1,6 +1,6 @@
 +++
 title = 'My Ultimate Blankets Guide' 
-tags = 'crochet', 'DIY', 'crafts', 'crochet guide', 'crochet tutorial', 'free crochet guide', 'free',  'free pattern', 'free crochet pattern', 'patterns', '2025', 'March 2025'
+tags = 'crochet' 'DIY' 'crafts' 'crochet guide' 'crochet tutorial' 'free crochet guide' 'free' 'free pattern' 'free crochet pattern' 'patterns' '2025' 'March 2025'
 draft = false
 +++
 
