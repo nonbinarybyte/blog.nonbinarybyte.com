@@ -5,6 +5,7 @@ copyright = "nonbinarybyte"
 pagination.pagerSize = 10
 languageCode = "en"
 theme = "tailwind"
+time = "2006-01-02T0:00-4:00"
 
 [markup]
   _merge = "deep"
