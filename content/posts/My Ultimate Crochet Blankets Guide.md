@@ -1,6 +1,7 @@
 +++
 title = 'My Ultimate Blankets Guide' 
-tags = 'crochet' 'DIY' 'crafts' 'crochet guide' 'crochet tutorial' 'free crochet guide' 'free' 'free pattern' 'free crochet pattern' 'patterns' '2025' 'March 2025'
+date = '03/18/2025 5:15p EST'
+tags = [crochet,DIY,crafts,crochet guide,crochet tutoriaL,free crochet guide,free,free pattern,free crochet pattern,patterns,2025,March 2025']
 draft = false
 +++
 
