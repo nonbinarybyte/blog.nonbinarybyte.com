@@ -1,6 +1,6 @@
 {
-  title = 'My Social Medias' 
-  date = '2025-03-14T14:30+4:00'
+  title = "My Social Medias"
+  date = "2025-03-14T14:30+4:00"
   tags = [2025,March 2025,Promotion,Updates,Promo,Other,Random Posts]
   draft = false
 }
