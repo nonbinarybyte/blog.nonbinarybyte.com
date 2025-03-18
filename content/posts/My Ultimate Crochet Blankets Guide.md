@@ -1,6 +1,6 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}' 
-tags = '2025, March 2025, Promotion, Updates, Promo, Other, Random Posts'
+title = 'My Ultimate Blankets Guide' 
+tags = 'crochet, DIY, crafts, crochet guide, crochet tutorial, free crochet guide, free,  free pattern, free crochet pattern, patterns, 2025, March 2025'
 draft = false
 +++
 
