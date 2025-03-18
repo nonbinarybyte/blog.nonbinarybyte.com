@@ -1,9 +1,9 @@
-{
-	title = "My Ultimate Blankets Guide" 
-	date = "2025-03-18T21:30+4:00"
-	tags = [crochet,DIY,crafts,crochet guide,crochet tutoriaL,free crochet guide,free,free pattern,free crochet pattern,patterns,2025,March 2025']
-	draft = false
-}
++++
+title = "My Ultimate Blankets Guide" 
+date = "2025-03-18T21:30+4:00"
+tags = [crochet,DIY,crafts,crochet guide,crochet tutoriaL,free crochet guide,free,free pattern,free crochet pattern,patterns,2025,March 2025']
+draft = false
++++
 
 ## Table of contents.
 <hr>
