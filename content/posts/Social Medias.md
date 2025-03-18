@@ -1,8 +1,9 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}' 
+title = 'My Social Medias' 
 tags = '2025, March 2025, Promotion, Updates, Promo, Other, Random Posts'
 draft = false
 +++
+
 
 # My social medias!
 
