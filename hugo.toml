@@ -38,7 +38,7 @@ series = "series"
 
 [services]
   [services.disqus]
-    shortname = "kennythefemme"
+    shortname = "kenny-10"
     
 [privacy]
   [privacy.disqus]
