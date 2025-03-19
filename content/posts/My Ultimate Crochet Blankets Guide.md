@@ -7,7 +7,7 @@ draft = false
 
 *I will NOT be doing anything bigger than a queen/full size blanket.*
 # Chart
-<HR>
+
 
 This is the chart i am using. It is from "pinterest.com" I'm not sure who exactly this chart was made by, so if you know please comment so I can give credits!
 Also, the receiving blanket will be excluded cause I've honestly got no idea what that is, sorry.
@@ -15,7 +15,7 @@ Also, the receiving blanket will be excluded cause I've honestly got no idea wha
 ![Chart](https://i.imgur.com/ltiEFsy.jpeg)
 
 # Gallery
-<HR>
+
 
 This is the gallery! All credits will be provided!
 
@@ -27,14 +27,13 @@ The blanket **BELOW** is by @asenseofyarning on REDDIT!
 ![Blanket 2](https://i.imgur.com/gHTSNuI.jpeg)
 
 # Disclaimers
-<HR>
+
 
 1. **NONE OF THE IMAGES HERE ARE MINE UNLESS STATED OTHERWISE!!**
-	1. All credits will be in the [Credits](#Credits) at the end of this post!
+	1. All credits will be in the Credits at the end of this post!
 2. This will be in USA terms!
 
 # Materials
-<hr>
 
 1. Yarn
 	1. any color(s), & brand of weight 4 yarn
@@ -47,7 +46,6 @@ The blanket **BELOW** is by @asenseofyarning on REDDIT!
 6. Measuring Tape, *optional*
 
 ## Terms (USA)
-<hr>
 
 *THIS GUIDE WILL NOT BE FOCUSING IN THE ROUND*
 
@@ -133,5 +131,9 @@ The stroller blanket is a blanket that goes in a stroller with a pet or baby. **
 [#1](https://g.co/kgs/Sij3t4Z)
 
 # Credits
+
+[Picture #1 - asenseofyarning](https://www.reddit.com/r/crochet/comments/xgeof8/strawberry_shortcake_baby_blanket/)
+
+[Picture #2 - fruitydaycrochet](https://www.etsy.com/shop/fruitydaycrochet)
 
 ***ALL CREDITS GO TO THEIR RESPECTIVE OWNERS!!***
