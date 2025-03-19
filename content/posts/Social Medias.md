@@ -2,6 +2,8 @@
 title = "My Social Medias"
 tags = ["2025","March 2025","Promotion","Updates","Promo","Other","Random Posts"]
 draft = false
+date = true
+images = ["https://i.pinimg.com/736x/78/07/0c/78070c3dac35200a24bf89f2a62c759f.jpg"]
 +++
 
 
