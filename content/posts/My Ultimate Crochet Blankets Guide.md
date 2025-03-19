@@ -4,21 +4,6 @@ tags = ["crochet","DIY","crafts","crochet guide","crochet tutorial","free croche
 draft = false
 +++
 
-## Table of contents.
-<hr>
-
-1. [Chart.](#Chart)
-2. [Gallery. (with pictures & credits)](#Gallery)
-3. [Disclaimers, notes, & credits.](#Disclaimers)
-4. [Materials Needed.](#Materials)
-5. [Lovey Blanket Guide.](#Lovey)
-6. [Stroller Blanket Guide.](#Stroller)
-7. [Baby Blanket Guide.](#Baby)
-8. [Throw Blanket Guide.](#Throw)
-9. [Twin Blanket Guide.](#Twin)
-10. [Full/Queen Blankets.](#Full)
-11. [Credits](#Credits)
-
 
 *I will NOT be doing anything bigger than a queen/full size blanket.*
 # Chart
@@ -86,11 +71,10 @@ The blanket **BELOW** is by @asenseofyarning on REDDIT!
 - REP => Repeat
 
 # Lovey
-<hr>
 
 The lovey blanket guide. **This is the smallest blanket**, For optional pazazz you can make & sew a stuffed animal on the Lovey like [this](https://blog.bellacococrochet.com/sleepy-baby-bear-and-bunny-lovey-by-alanna-odea/)
 
-==**Measurements**==: 12in X 12in (30.5cm X 30.5cm). To get this measurement you may need to loosen or tighten your tension.
+**Measurements**: 12in X 12in (30.5cm X 30.5cm). To get this measurement you may need to loosen or tighten your tension.
 
 You will want to do HDC stitches. If it is going to be a solid Granny square you will want to do DC as that is recommended for *most to all* granny squares.
 
@@ -103,20 +87,18 @@ You will want to do HDC stitches. If it is going to be a solid Granny square you
 [#3](https://www.etsy.com/listing/1080868781/security-blanket-crochet-pattern-easy?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_-craft_supplies_and_tools&utm_custom1=_k_Cj0KCQjws-S-BhD2ARIsALssG0bpG0fTZS3E1SOoltXzXIBdBJVuoTg-kcBmL1K9YVny5uqwojAV4PYaAk5yEALw_wcB_k_&utm_content=go_21963585752_174347397027_723520958334_pla-295462056867_c__1080868781_526415456&utm_custom2=21963585752&gad_source=1&gclid=Cj0KCQjws-S-BhD2ARIsALssG0bpG0fTZS3E1SOoltXzXIBdBJVuoTg-kcBmL1K9YVny5uqwojAV4PYaAk5yEALw_wcB) 
 
 # Stroller
-<hr>
 
 The stroller blanket is a blanket that goes in a stroller with a pet or baby. **This is the second to smallest** blanket, for this blanket you will **not** want to add a stuffed toy on this, simply because it is bigger. 
 
-==**Measurements**==: 35in X 30in (89cm X 76cm). To get this measurement you may need to loosen or tighten your tension.
+**Measurements**: 35in X 30in (89cm X 76cm). To get this measurement you may need to loosen or tighten your tension.
 
 ## Patterns to get you started
 
 [#1](https://g.co/kgs/jP7JPp1)
 
 # Baby
-<hr>
 
-==**Measurements**==: 52in X 50in (132cm X 127cm). To get this measurement you may need to loosen or tighten your tension.
+**Measurements**: 52in X 50in (132cm X 127cm). To get this measurement you may need to loosen or tighten your tension.
 
 ## Patterns to get you started
 
@@ -125,9 +107,8 @@ The stroller blanket is a blanket that goes in a stroller with a pet or baby. **
 [#2](https://g.co/kgs/Hn7gH1q)
 
 # Throw
-<hr>
 
-==**Measurements**==: 60in X 52in (152cm X 132cm). To get this measurement you may need to loosen or tighten your tension.
+**Measurements**: 60in X 52in (152cm X 132cm). To get this measurement you may need to loosen or tighten your tension.
 
 ## Patterns to get you started
 
@@ -136,24 +117,21 @@ The stroller blanket is a blanket that goes in a stroller with a pet or baby. **
 [#2](https://g.co/kgs/Sij3t4Z)
 
 # Twin
-<hr>
 
-==**Measurements**==: 90in X 60in (228 x 152 cm). To get this measurement you may need to loosen or tighten your tension.
+**Measurements**: 90in X 60in (228 x 152 cm). To get this measurement you may need to loosen or tighten your tension.
 
 ## Patters to get you started
 
 [#1](https://g.co/kgs/o2cjZ8Z)
 
 # Full
-<hr>
 
-==**Measurements**==: 90in X 90in (228 x 228 cm). To get this measurement you may need to loosen or tighten your tension.
+**Measurements**: 90in X 90in (228 x 228 cm). To get this measurement you may need to loosen or tighten your tension.
 
 ## Patters to get you started
 
 [#1](https://g.co/kgs/Sij3t4Z)
 
 # Credits
-<hr>
 
 ***ALL CREDITS GO TO THEIR RESPECTIVE OWNERS!!***
