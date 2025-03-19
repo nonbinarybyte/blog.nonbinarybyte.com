@@ -2,6 +2,8 @@
 title = "My Intro Post"
 tags = ["2025","March 2025","Promotion","Updates","Promo","Other","Random Posts"]
 draft = false
+date = true
+images = ["https://i.pinimg.com/736x/c4/41/cd/c441cdfe0e76ffa896caae02ef32146a.jpg"]
 +++
 
 # Welcome to my blog!
