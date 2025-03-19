@@ -39,3 +39,7 @@ series = "series"
 [services]
   [services.disqus]
     shortname = "kennythefemme"
+    
+[privacy]
+  [privacy.disqus]
+    disable = false
